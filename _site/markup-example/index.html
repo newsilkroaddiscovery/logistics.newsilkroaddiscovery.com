@@ -10,7 +10,7 @@
 <title>Markdown Example | New Silkroad Discovery</title>
 <meta name="generator" content="Jekyll v4.3.3" />
 <meta property="og:title" content="Markdown Example" />
-<meta name="author" content="jane" />
+<meta name="author" content="sal" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something." />
 <meta property="og:description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something." />
@@ -24,7 +24,7 @@
 <meta property="twitter:image" content="http://localhost:4000/assets/images/6.jpg" />
 <meta property="twitter:title" content="Markdown Example" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"jane"},"dateModified":"2019-01-19T00:00:00+01:00","datePublished":"2019-01-19T00:00:00+01:00","description":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something.","headline":"Markdown Example","image":"http://localhost:4000/assets/images/6.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/markup-example/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"jane"},"url":"http://localhost:4000/markup-example/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"sal"},"dateModified":"2019-01-19T00:00:00+01:00","datePublished":"2019-01-19T00:00:00+01:00","description":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something.","headline":"Markdown Example","image":"http://localhost:4000/assets/images/6.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/markup-example/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"sal"},"url":"http://localhost:4000/markup-example/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -122,7 +122,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
     "title": "Correspondents",
-    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
+    "body": " {{page. title}}:    {% for author in site. authors %}                                                    {{ author[1]. name }}:         (View Posts)        {{ author[1]. bio }}                       {% if author[1]. email %}         Email        {% endif %}        {% if author[1]. linkedin %}         LinkedIn        {% endif %}                           {% endfor %} "
     }, {
     "id": 5,
     "url": "http://localhost:4000/buy-me-a-coffee.html",
@@ -321,6 +321,7 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         
+
 <div class="container">
     <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
         <div class="h-100 tofront">
@@ -338,10 +339,14 @@ function lunr_search(term) {
                     <h1 class="display-4 mb-4 article-headline">Markdown Example</h1>
                     <div class="d-flex align-items-center">
                         
-                        <img class="rounded-circle" src="/assets/images/avatar2.jpg" alt="Jane" width="70"/>
+                        <img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Sal" width="70"/>
                         
                         <small class="ml-3">
-                            Jane
+                            Sal
+                            
+                            <span>
+                                <a target="_blank" href="https://www.linkedin.com/in/newsilkroaddiscovery/" class="btn btn-outline-success btn-sm btn-round ml-1">Follow LinkedIn</a>
+                            </span>
                             
                             <span class="text-muted d-block mt-1">Jan 19, 2019 · <span class="reading-time">
   
@@ -449,21 +454,29 @@ function lunr_search(term) {
             
             
             
-             <!-- Author Box -->
-                				
+      
+
+				<!-- Author Box -->
+								
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
-                         
-                        <img class="rounded-circle" src="/assets/images/avatar2.jpg" alt="Jane" width="90"/>
-                         
+						
+						<img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Sal" width="90"/>
+						 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by Jane <span><a target="_blank" href="https://twitter.com/wowthemesnet" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span></h5>
-						Blogger, fashionista, love to explore new ideas and write on my morning coffee!					
+						<h5 class="font-weight-bold">Written by Sal 
+							
+							<span>
+								<a target="_blank" href="https://www.linkedin.com/in/newsilkroaddiscovery/" class="btn btn-outline-success btn-sm btn-round ml-2">Follow LinkedIn</a>
+							</span>
+							
+						</h5>
+						Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!					
 					</div>
 				</div>				
-                
-            
+				
+
             <!-- Comments -->
             
                 <!--  Don't edit anything here. Set your disqus id in _config.yml -->

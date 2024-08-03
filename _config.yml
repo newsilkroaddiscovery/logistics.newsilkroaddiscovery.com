@@ -27,19 +27,19 @@ authors:
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          info@newsilkroaddiscovery.com
-      linkedin: "https://www.linkedin.com/in/sal"  # Add LinkedIn URL here
-      twitter:        https://twitter.com/wowthemesnet
-   
+      linkedin: "https://www.linkedin.com/in/newsilkroaddiscovery/"  # Add LinkedIn URL here
+      #twitter:        https://twitter.com/wowthemesnet
+      
 
 
-    jane:
-      name:           Jane
-      site:           http://logistics.newsilkroaddiscovery.com/
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          info@newsilkroaddiscovery.com
-      linkedin: "https://www.linkedin.com/in/sal"  # Add LinkedIn URL here
-      twitter:        https://twitter.com/wowthemesnet
+    #jane:
+     # name:           Jane
+     # site:           http://logistics.newsilkroaddiscovery.com/
+     #avatar:         assets/images/avatar2.jpg
+     # bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      #email:          info@newsilkroaddiscovery.com
+      #linkedin: "https://www.linkedin.com/in/newsilkroaddiscovery/"  # Add LinkedIn URL here
+      #twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:

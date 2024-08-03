@@ -122,7 +122,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
     "title": "Correspondents",
-    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
+    "body": " {{page. title}}:    {% for author in site. authors %}                                                    {{ author[1]. name }}:         (View Posts)        {{ author[1]. bio }}                       {% if author[1]. email %}         Email        {% endif %}        {% if author[1]. linkedin %}         LinkedIn        {% endif %}                           {% endfor %} "
     }, {
     "id": 5,
     "url": "http://localhost:4000/buy-me-a-coffee.html",
@@ -321,6 +321,7 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         
+
 <div class="container">
     <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
         <div class="h-100 tofront">
@@ -344,7 +345,7 @@ function lunr_search(term) {
                             Sal
                             
                             <span>
-                                <a target="_blank" href="https://www.linkedin.com/in/sal" class="btn btn-outline-success btn-sm btn-round ml-1">Follow LinkedIn</a>
+                                <a target="_blank" href="https://www.linkedin.com/in/newsilkroaddiscovery/" class="btn btn-outline-success btn-sm btn-round ml-1">Follow LinkedIn</a>
                             </span>
                             
                             <span class="text-muted d-block mt-1">Jan 20, 2019 · <span class="reading-time">
@@ -453,21 +454,29 @@ function lunr_search(term) {
             
             
             
-             <!-- Author Box -->
-                				
+      
+
+				<!-- Author Box -->
+								
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
-                         
-                        <img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Sal" width="90"/>
-                         
+						
+						<img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Sal" width="90"/>
+						 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by Sal <span><a target="_blank" href="https://twitter.com/wowthemesnet" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span></h5>
+						<h5 class="font-weight-bold">Written by Sal 
+							
+							<span>
+								<a target="_blank" href="https://www.linkedin.com/in/newsilkroaddiscovery/" class="btn btn-outline-success btn-sm btn-round ml-2">Follow LinkedIn</a>
+							</span>
+							
+						</h5>
 						Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!					
 					</div>
 				</div>				
-                
-            
+				
+
             <!-- Comments -->
             
                 <!--  Don't edit anything here. Set your disqus id in _config.yml -->
