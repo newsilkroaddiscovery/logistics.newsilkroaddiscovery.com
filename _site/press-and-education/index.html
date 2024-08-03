@@ -67,7 +67,7 @@
                <!--  Replace menu links here -->
 
 <li class="nav-item">
-<a class="nav-link" href="/index.html">Home</a>
+<a class="nav-link" href="/index.html">Logistics</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/authors-list.html">Contact</a>
@@ -117,7 +117,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/author-sal.html",
     "title": "Sal",
-    "body": "                        {{page. title}} Follow:         {{ site. authors. sal. site }}         {{ site. authors. sal. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , sal  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
+    "body": "               {{page. title}}            {% if site. authors. sal. twitter %}             Follow            {% endif %}     :           {{ site. authors. sal. bio }}                 {% if site. authors. sal. email %}      Email      {% endif %}      {% if site. authors. sal. linkedin %}      LinkedIn      {% endif %}                            Posts by {{page. title}}:    {% assign posts = site. posts | where: author , sal  %}   {% for post in posts %}   {% include main-loop-card. html %}   {% endfor %}   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
@@ -322,25 +322,31 @@ function lunr_search(term) {
     <main role="main" class="site-content">
         
 <div class="container">
-<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
-		<div class="h-100 tofront">
-			<div class="row  justify-content-between ">
-				<div class=" col-md-6  pr-0 pr-md-4 pt-4 pb-4 align-self-center">
-					<p class="text-uppercase font-weight-bold">
+    <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+        <div class="h-100 tofront">
+            <div class="row  justify-content-between ">
+                <div class=" col-md-6  pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+                    <p class="text-uppercase font-weight-bold">
                         <span class="catlist">
-						
-                          <a class="sscroll text-danger" href="/categories.html#jekyll">jekyll</a><span class="sep">, </span>
-                        
-                          <a class="sscroll text-danger" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-                        
+                            
+                            <a class="sscroll text-danger" href="/categories.html#jekyll">jekyll</a><span class="sep">, </span>
+                            
+                            <a class="sscroll text-danger" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+                            
                         </span>
-					</p>
-					<h1 class="display-4 mb-4 article-headline">Press and education</h1>
-					<div class="d-flex align-items-center">
+                    </p>
+                    <h1 class="display-4 mb-4 article-headline">Press and education</h1>
+                    <div class="d-flex align-items-center">
                         
                         <img class="rounded-circle" src="/assets/images/avatar1.jpg" alt="Sal" width="70"/>
                         
-						<small class="ml-3"> Sal <span><a target="_blank" href="https://twitter.com/wowthemesnet" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                        <small class="ml-3">
+                            Sal
+                            
+                            <span>
+                                <a target="_blank" href="https://www.linkedin.com/in/sal" class="btn btn-outline-success btn-sm btn-round ml-1">Follow LinkedIn</a>
+                            </span>
+                            
                             <span class="text-muted d-block mt-1">Jan 25, 2019 · <span class="reading-time">
   
   
@@ -348,18 +354,19 @@ function lunr_search(term) {
   
 </span>
     </span>
-						</small>
-					</div>
-				</div>
+                        </small>
+                    </div>
+                </div>
                 
-				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="/assets/images/7.jpg" alt="Press and education">
-				</div>
+                <div class="col-md-6 pr-0 align-self-center">
+                    <img class="rounded" src="/assets/images/7.jpg" alt="Press and education">
+                </div>
                 
-			</div>
-		</div>
-	</div>
+            </div>
+        </div>
+    </div>
 </div>
+
 
 
 

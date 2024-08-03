@@ -61,7 +61,7 @@
                <!--  Replace menu links here -->
 
 <li class="nav-item">
-<a class="nav-link" href="/index.html">Home</a>
+<a class="nav-link" href="/index.html">Logistics</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/authors-list.html">Contact</a>
@@ -111,7 +111,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/author-sal.html",
     "title": "Sal",
-    "body": "                        {{page. title}} Follow:         {{ site. authors. sal. site }}         {{ site. authors. sal. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , sal  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
+    "body": "               {{page. title}}            {% if site. authors. sal. twitter %}             Follow            {% endif %}     :           {{ site. authors. sal. bio }}                 {% if site. authors. sal. email %}      Email      {% endif %}      {% if site. authors. sal. linkedin %}      LinkedIn      {% endif %}                            Posts by {{page. title}}:    {% assign posts = site. posts | where: author , sal  %}   {% for post in posts %}   {% include main-loop-card. html %}   {% endfor %}   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
