@@ -21,8 +21,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Editor:
-      name:           Editor
+    rudy:
+      name:           Rudy
       site:           info@newsilkroaddiscovery.com
       avatar:         assets/images/avatar1.png
       bio:            "Hi, I am the Editor of New Silkroad Discovery. I hope you find my words engaging and insightful as we explore the dynamic logistics developments along the New Silk Road, a vital link that fosters connections between continents and cultures!"

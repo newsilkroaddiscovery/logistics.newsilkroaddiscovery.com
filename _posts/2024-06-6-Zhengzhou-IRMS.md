@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "International Rail Freight and Multimodal Transport Summit 2024"
-author: Editor
+author: rudy
 categories: [Event ]
 image: assets/images/ivan.jpg
 tags: [sticky]
