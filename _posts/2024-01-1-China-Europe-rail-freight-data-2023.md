@@ -13,6 +13,11 @@ More precise data from China Railway Container Transport (CRCT) reveals that the
 
 
 
+<div style="text-align: center;">
+    <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/a1c243d7-02fd-4a14-9dab-cf93fce47215/page/5A57D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+    <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 1: Development of China-Europe Freight Trains since 2011</p>
+</div>
+
 Notably, excluding the initial two months due to the Spring Festival holiday, over 1,400 trains operated during the remaining 10 months of 2023. The peak months were November with 1,561 trips and July with 1,552 trips.
 
 
@@ -66,6 +71,8 @@ One notable consequence of the decline in freight volumes is the continual impro
 Poland continued to lead among European countries with the highest containerized cargo arriving on westbound trains, amounting to 117,628 TEUs, albeit experiencing a 34.11% year-on-year decline.
 
 Meanwhile, rail freight from China to Germany faced a substantial decline, with only 12,866 TEUs in 2023, marking an `80.02%` drop. On the eastbound shipment front, Germany, known for its robust product exports, remained the country that shipped the most containers to China, reaching 58,282 TEUs but still experiencing a` 45.68% year-on-year decline`.
+
+
 
 
 
