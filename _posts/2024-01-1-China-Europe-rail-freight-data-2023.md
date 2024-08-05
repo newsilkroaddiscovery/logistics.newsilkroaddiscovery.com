@@ -3,8 +3,8 @@ layout: post
 title:  "Overview of China-Europe rail freight data 2023"
 author: rudy
 categories: [Eurasia ]
-image: assets/images/data2023.webp
-tags: [featured]
+image: assets/images/train2011_2023.png
+tags: [sticky]
 ---
 
 In the year 2023, the China-Europe freight train has reached `17,000` trips, transporting `1.9 million TEUs`, marking a notable increase of 6% and 18% year-on-year, as per the statistics released by the China State Railway Group.
