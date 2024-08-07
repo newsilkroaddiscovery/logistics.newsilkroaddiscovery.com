@@ -13,10 +13,18 @@ More precise data from China Railway Container Transport (CRCT) reveals that the
 
 
 
-<div style="text-align: center;">
-    <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/a1c243d7-02fd-4a14-9dab-cf93fce47215/page/5A57D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-    <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 1: Development of China-Europe Freight Trains since 2011</p>
+
+<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe src="https://lookerstudio.google.com/embed/reporting/a1c243d7-02fd-4a14-9dab-cf93fce47215/page/5A57D" 
+            frameborder="0" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+            allowfullscreen 
+            sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+    </iframe>
 </div>
+<p style="font-style: normal; color: #666; font-size: 0.9em;text-align: center;">Figure 1: Development of China-Europe Freight Trains since 2011</p>
+
+
 
 Notably, excluding the initial two months due to the Spring Festival holiday, over 1,400 trains operated during the remaining 10 months of 2023. The peak months were November with 1,561 trips and July with 1,552 trips.
 

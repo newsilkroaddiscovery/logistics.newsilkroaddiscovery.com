@@ -33,6 +33,10 @@
 <lastmod>2024-07-26T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/China-Europe-rail-freight-map-2024/</loc>
+<lastmod>2024-08-01T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/Backlog/2019-01-18-charm-old-cities/</loc>
 </url>
 <url>
@@ -121,5 +125,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/map/</loc>
+<lastmod>2024-08-07T21:35:37+02:00</lastmod>
 </url>
 </urlset>
