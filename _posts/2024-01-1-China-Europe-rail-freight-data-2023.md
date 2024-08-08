@@ -22,6 +22,10 @@ More precise data from China Railway Container Transport (CRCT) reveals that the
             sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
     </iframe>
 </div>
+ <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
 <p style="font-style: normal; color: #666; font-size: 0.9em;text-align: center;">Figure 1: Development of China-Europe Freight Trains since 2011</p>
 
 
@@ -31,6 +35,10 @@ Notably, excluding the initial two months due to the Spring Festival holiday, ov
 
 <div style="text-align: center;">
     <img src="/assets/images/monthly_trips2023.webp" alt="Alt text" style="max-width: 70%; height: auto;">
+     <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
     <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 1: Monthly trains in both directions (China-Europe) 2023</p>
 </div>
 
@@ -51,6 +59,10 @@ Tongjiang Railway Port made significant strides, initiating its first outbound t
 
 <div style="text-align: center;">
     <img src="/assets/images/border_data_2023.webp" alt="Alt text" style="max-width: 70%; height: auto;">
+     <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
     <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 2: Train Trips via different border crossings 2023</p>
 </div>
 
@@ -59,9 +71,21 @@ On the city front, Xi’an, Chongqing, Chengdu, and Zhengzhou maintained their p
 
 
 
+
+
+
 <div style="text-align: center;">
-    <img src="/assets/images/train_rips-by-provinces-and-cities-2023.webp" alt="Alt text" style="max-width: 70%; height: auto;">
-    <p style="font-style: inherit; color: #666; font-size: 0.9em;">Figure 3: Ranking of departures from different provinces 2023</p>
+  <img src="/assets/images/train_rips-by-provinces-and-cities-2023.webp" alt="Alt text" style="max-width: 70%; height: auto;">
+  
+  <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
+
+  <!-- Image Caption -->
+  <p style="font-style: inherit; color: #666; font-size: 0.9em;">
+    Figure 3: Ranking of departures from different provinces in 2023
+  </p>
 </div>
 
 

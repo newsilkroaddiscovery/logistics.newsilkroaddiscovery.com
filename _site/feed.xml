@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-08T12:49:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">New Silkroad Discovery</title><subtitle></subtitle><entry><title type="html">Eurasian Transport Network Map</title><link href="http://localhost:4000/China-Europe-rail-freight-map-2024/" rel="alternate" type="text/html" title="Eurasian Transport Network Map" /><published>2024-08-01T00:00:00+02:00</published><updated>2024-08-01T00:00:00+02:00</updated><id>http://localhost:4000/China-Europe-rail-freight-map-2024</id><content type="html" xml:base="http://localhost:4000/China-Europe-rail-freight-map-2024/"><![CDATA[<iframe src="/assets/map/index.html" width="100%" height="600px" frameborder="0"></iframe>
-<p style="font-style: normal; color: #666; font-size: 0.9em;text-align: center;">Map 1: Eurasia railway network (orange color is main line, the red line is high-speed line). You can use the full-screen function to explore the map and search for rail stations.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-08T13:12:42+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">New Silkroad Discovery</title><subtitle></subtitle><entry><title type="html">Eurasian Transport Network Map</title><link href="http://localhost:4000/China-Europe-rail-freight-map-2024/" rel="alternate" type="text/html" title="Eurasian Transport Network Map" /><published>2024-08-01T00:00:00+02:00</published><updated>2024-08-01T00:00:00+02:00</updated><id>http://localhost:4000/China-Europe-rail-freight-map-2024</id><content type="html" xml:base="http://localhost:4000/China-Europe-rail-freight-map-2024/"><![CDATA[<iframe src="/assets/map/index.html" width="100%" height="600px" frameborder="0"></iframe>
+
+<!-- Copyright Notice -->
+<p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+  © 2024 New Silkroad Discovery. All rights reserved.
+</p>
+
+<!-- Map Caption -->
+<p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center;">
+  Map 1: Eurasia railway network (orange color is the main line, and the red line is the high-speed line). You can use the full-screen function to explore the map and search for rail stations.
+</p>
 
 <div style="text-align: center;">
     <img src="/assets/images/mapeurasian.JPG" alt="Alt text" style="max-width: 100%; height: auto;" />
@@ -9,7 +18,7 @@
 <div style="text-align: center;">
     <img src="/assets/images/Eurasian-transport-network.jpeg" alt="Alt text" style="max-width: 100%; height: auto;" />
     <p style="font-style: inherit; color: #666; font-size: 0.9em;">Map 3:Eurasian Transport Network (Eurasian Development Bank)</p>
-</div>]]></content><author><name>rudy</name></author><category term="Eurasia" /><category term="sticky" /><summary type="html"><![CDATA[Map 1: Eurasia railway network (orange color is main line, the red line is high-speed line). You can use the full-screen function to explore the map and search for rail stations.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mapeurasian.JPG" /><media:content medium="image" url="http://localhost:4000/assets/images/mapeurasian.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rail attacks at Paris Olympics highlight security vulnerabilities in the Eurasian rail freight network</title><link href="http://localhost:4000/paris-olympic-sabotage/" rel="alternate" type="text/html" title="Rail attacks at Paris Olympics highlight security vulnerabilities in the Eurasian rail freight network" /><published>2024-07-26T00:00:00+02:00</published><updated>2024-07-26T00:00:00+02:00</updated><id>http://localhost:4000/paris-olympic-sabotage</id><content type="html" xml:base="http://localhost:4000/paris-olympic-sabotage/"><![CDATA[<p>Today’s society relies heavily on the continuous and reliable functioning of infrastructure systems such as telecommunications, electric power, gas and oil, water supply, and transportation. These systems are so essential that any interruption in their services can have crippling effects on citizens’ well-being, the nation’s economy, and society as a whole. <code class="language-plaintext highlighter-rouge">Critical infrastructure</code> is vulnerable to various threats, including natural hazards, component aging, increased demand, climate change, sabotage, and cascading failures due to their interdependencies.  In some cases, the network could recover from incidents, but if the critical infrastructure is under attack, <code class="language-plaintext highlighter-rouge">a serious failure of the network</code> may happen<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+</div>]]></content><author><name>rudy</name></author><category term="Eurasia" /><category term="sticky" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mapeurasian.JPG" /><media:content medium="image" url="http://localhost:4000/assets/images/mapeurasian.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rail attacks at Paris Olympics highlight security vulnerabilities in the Eurasian rail freight network</title><link href="http://localhost:4000/paris-olympic-sabotage/" rel="alternate" type="text/html" title="Rail attacks at Paris Olympics highlight security vulnerabilities in the Eurasian rail freight network" /><published>2024-07-26T00:00:00+02:00</published><updated>2024-07-26T00:00:00+02:00</updated><id>http://localhost:4000/paris-olympic-sabotage</id><content type="html" xml:base="http://localhost:4000/paris-olympic-sabotage/"><![CDATA[<p>Today’s society relies heavily on the continuous and reliable functioning of infrastructure systems such as telecommunications, electric power, gas and oil, water supply, and transportation. These systems are so essential that any interruption in their services can have crippling effects on citizens’ well-being, the nation’s economy, and society as a whole. <code class="language-plaintext highlighter-rouge">Critical infrastructure</code> is vulnerable to various threats, including natural hazards, component aging, increased demand, climate change, sabotage, and cascading failures due to their interdependencies.  In some cases, the network could recover from incidents, but if the critical infrastructure is under attack, <code class="language-plaintext highlighter-rouge">a serious failure of the network</code> may happen<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
 
 <div style="text-align: center;">
 <iframe width="670" height="350" src="https://www.youtube.com/embed/iCRDQl9hosw?si=S2FEqrRuos7N_afH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
@@ -107,12 +116,20 @@
     <iframe src="https://lookerstudio.google.com/embed/reporting/a1c243d7-02fd-4a14-9dab-cf93fce47215/page/5A57D" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
     </iframe>
 </div>
+<p><!-- Copyright Notice --></p>
+<p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
 <p style="font-style: normal; color: #666; font-size: 0.9em;text-align: center;">Figure 1: Development of China-Europe Freight Trains since 2011</p>
 
 <p>Notably, excluding the initial two months due to the Spring Festival holiday, over 1,400 trains operated during the remaining 10 months of 2023. The peak months were November with 1,561 trips and July with 1,552 trips.</p>
 
 <div style="text-align: center;">
     <img src="/assets/images/monthly_trips2023.webp" alt="Alt text" style="max-width: 70%; height: auto;" />
+     <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
     <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 1: Monthly trains in both directions (China-Europe) 2023</p>
 </div>
 
@@ -124,14 +141,27 @@
 
 <div style="text-align: center;">
     <img src="/assets/images/border_data_2023.webp" alt="Alt text" style="max-width: 70%; height: auto;" />
+     <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
     <p style="font-style: normal; color: #666; font-size: 0.9em;">Figure 2: Train Trips via different border crossings 2023</p>
 </div>
 
 <p>On the city front, Xi’an, Chongqing, Chengdu, and Zhengzhou maintained their positions as the top four cities. The platform companies in Changsha, Wuhan, Guangzhou, Yiwu, Shenyang, and Hefei all operated over 500 trains in 2023.</p>
 
 <div style="text-align: center;">
-    <img src="/assets/images/train_rips-by-provinces-and-cities-2023.webp" alt="Alt text" style="max-width: 70%; height: auto;" />
-    <p style="font-style: inherit; color: #666; font-size: 0.9em;">Figure 3: Ranking of departures from different provinces 2023</p>
+  <img src="/assets/images/train_rips-by-provinces-and-cities-2023.webp" alt="Alt text" style="max-width: 70%; height: auto;" />
+  
+  <!-- Copyright Notice -->
+  <p style="font-style: normal; color: #666; font-size: 0.9em; text-align: center; margin-top: 10px;">
+    © 2024 New Silkroad Discovery. All rights reserved.
+  </p>
+
+  <!-- Image Caption -->
+  <p style="font-style: inherit; color: #666; font-size: 0.9em;">
+    Figure 3: Ranking of departures from different provinces in 2023
+  </p>
 </div>
 
 <h2 id="decrease-on-china-europe-routes-excl-russian-routes">Decrease on China-Europe routes excl. Russian routes</h2>
