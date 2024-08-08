@@ -10,7 +10,9 @@ tags: [featured]
 
 Today's society relies heavily on the continuous and reliable functioning of infrastructure systems such as telecommunications, electric power, gas and oil, water supply, and transportation. These systems are so essential that any interruption in their services can have crippling effects on citizens' well-being, the nation's economy, and society as a whole. `Critical infrastructure` is vulnerable to various threats, including natural hazards, component aging, increased demand, climate change, sabotage, and cascading failures due to their interdependencies.  In some cases, the network could recover from incidents, but if the critical infrastructure is under attack, `a serious failure of the network` may happen[^1].  
 
-
+<div style="text-align: center;">
+<iframe width="670" height="350" src="https://www.youtube.com/embed/iCRDQl9hosw?si=S2FEqrRuos7N_afH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 The sabotage of the railway is becoming more frequent. On July 26, 2024, just hours before the opening ceremony of the `Paris Olympic Games`, France's high-speed rail network was severely disrupted by coordinated acts of sabotage, including arson attacks. These incidents targeted the TGV lines connecting Paris to various regions and neighboring countries, causing widespread travel chaos. Fires were reported near the tracks on the Atlantique, Nord, and Est high-speed lines, particularly affecting Paris' major Montparnasse station. The attacks paralyzed several high-speed lines, leading to the cancellation and diversion of numerous trains. This disruption affected not only Olympic athletes and officials but also thousands of travelers, causing significant delays and cancellations. The incidents underscored the vulnerability of critical infrastructure and prompted a reevaluation of rail security policies. In 2023, sabotage targeted crucial communication cables, leading to widespread disruptions in rail services across `northern Germany`. The attacks caused severe delays and cancellations, affecting thousands of passengers and freight operations.
 
@@ -54,6 +56,5 @@ However, Eurasian rail freight travels through multiple countries, there is `lac
 
 
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/iCRDQl9hosw?si=S2FEqrRuos7N_afH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
