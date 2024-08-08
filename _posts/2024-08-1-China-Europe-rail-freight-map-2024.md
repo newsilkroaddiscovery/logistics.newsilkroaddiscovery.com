@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eurasian Transport Network Map"
+title:  "We release Eurasian Transport Rail Network Map"
 author: rudy
 categories: [Eurasia ]
 image: assets/images/mapeurasian.JPG
