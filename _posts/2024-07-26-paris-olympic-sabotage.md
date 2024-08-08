@@ -18,6 +18,9 @@ The sabotage of the railway is becoming more frequent. On July 26, 2024, just ho
 
 
 
+
+
+
 However, Eurasian rail freight travels through multiple countries, there is `lacking of intergovernmental mechanism` to protect this intercontinental rail route. Eurasian rail transport is a critical component of the global supply chain, connecting vast regions from Europe to Asia. It has grown in significance, particularly after `crises like the Red Sea shipping disruptions` since Jan.2024, which have highlighted the vulnerabilities and strategic importance of alternative transport routes. However, this extensive intercontinental rail network faces several security challenges that could disrupt operations and threaten the safety of goods. The security concerns span a range of issues, including **terrorist attacks, vandalism, and cyber threats**. These risks not only pose immediate dangers but also have long-term impacts on  supply chain. 
 
 > #### Eurasian rail networks today face a variety of risks that can significantly disrupt operations:

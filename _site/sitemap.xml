@@ -121,6 +121,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/map/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/privacy-policy.html</loc>
 </url>
 <url>
@@ -128,6 +131,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/map/</loc>
+<lastmod>2024-08-07T21:35:37+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/maps/Eurasian_map/</loc>
 <lastmod>2024-08-07T21:35:37+02:00</lastmod>
 </url>
 </urlset>
