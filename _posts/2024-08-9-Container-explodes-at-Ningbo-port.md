@@ -8,7 +8,7 @@ tags: [featured]
 ---
 
 
-A container explosion aboard the Liberian-registered cargo ship **YM Mobility** rocked the Ningbo-Zhoushan Port today, sending debris flying and billowing thick black smoke into the sky. The explosion, linked to a hazardous goods container, occurred in the Beilun area of the port, one of the busiest shipping terminals in the world.
+A container explosion aboard the Liberian-registered cargo ship **YM Mobility** rocked the Ningbo-Zhoushan Port today, sending debris flying and billowing thick black smoke into the sky. The explosion, linked to a hazardous goods container, occurred in the `Beilun area of the port`, one of the busiest shipping terminals in the world.
 
 <div style="text-align: center;">
 <iframe width="670" height="350" src="https://www.youtube.com/embed/GCURD9Nz1LM?si=u_U-vTtnwngEEdhd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
