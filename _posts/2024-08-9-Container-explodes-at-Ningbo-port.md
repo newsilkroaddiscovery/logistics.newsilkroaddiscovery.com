@@ -2,7 +2,7 @@
 layout: post
 title:  "Blast at World's Busiest Port Ningbo-Zhoushan Sparks Supply Chain Worries"
 author: rudy
-categories: [Eurasia ]
+categories: [Supply Chain ]
 image: assets/images/Yang-Ming-container-ship-explosion.png
 tags: [featured]
 ---
