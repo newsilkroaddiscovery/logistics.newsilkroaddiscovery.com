@@ -19,9 +19,9 @@ State media, including Xinhua, confirmed that despite the intensity of the blast
 
 Videos shared on social media captured the moment the explosion sent a large plume of smoke into the air, with flaming debris scattering across the port. The ship, operated by Taiwanese shipping company **Yang Ming Marine Transport Corporation**, was docked at the Beilun terminal when the explosion occurred. The Ningbo Maritime Search and Rescue Centre quickly identified the presence of hazardous materials on board, which prompted immediate safety measures.
 
-Authorities are closely monitoring the situation, with investigations underway to determine the exact nature of the hazardous materials involved. Preliminary findings suggest the explosion originated from a **reefer (refrigerated) container** being used as a dry container substitute, which did not require a power connection. However, the specifics of the materials inside the container have not yet been disclosed.
+Authorities are closely monitoring the situation, with investigations underway to determine the exact nature of the hazardous materials involved. Preliminary findings suggest the explosion originated from a **reefer (refrigerated) container** being used as a dry container substitute, which `did not require a power connection`. However, the specifics of the materials inside the container have not yet been disclosed.
 
-The incident at Ningbo-Zhoushan Port, a critical hub for global trade, highlights several key concerns:
+The incident at Ningbo-Zhoushan Port, a `critical hub for global trade`, highlights several key concerns:
 
 - `Safety Concerns`: The explosion underscores the ongoing risks associated with the transportation and storage of hazardous materials in global shipping operations. Authorities are expected to review and potentially tighten safety protocols to prevent similar incidents in the future.
 
