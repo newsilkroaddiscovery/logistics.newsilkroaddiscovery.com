@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 #disqus: 'demowebsite'
-email: 'info@newsilkroaddiscovery.com'
+email: 'editor@newsilkroaddiscovery.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 mailchimp-list: 'https://gmail.us22.list-manage.com/subscribe/post?u=bcb307094037303e452891e79&id=bf190ba2a8'
 
@@ -30,7 +30,7 @@ authors:
       avatar:         assets/images/avatar1.png
       bio:            "Hi, I am the Editor of New Silkroad Discovery. I believe interesting stories and insightful knowledge should be free for everyone. Our news is an important source in United Nations reports. I also hope you find our news engaging as we explore the dynamic logistics developments along the New Silk Road. 
                       I would love to hear your story. You don’t have to be a C-level executive; I welcome your thoughts on your daily work, doubts, concerns, and questions. We are an open community and welcome your input, with your name or anonymously!"
-      email:          info@newsilkroaddiscovery.com
+      email:          editor@newsilkroaddiscovery.com
       linkedin: "https://www.linkedin.com/in/newsilkroaddiscovery/"  # Add LinkedIn URL here
       #twitter:        https://twitter.com/wowthemesnet
       
